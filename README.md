@@ -8,7 +8,13 @@ TopCall is a proprietary application developed for internal use at Toptal. This 
 
 ## Installation
 
-Download the latest release from the **Releases** page of this repository and follow the installation instructions for your platform.
+### [Windows :window:](https://github.com/toptal/topcall-release/releases/latest/download/TopCall.exe)
+
+### [MacOS :green_apple:](https://github.com/toptal/topcall-release/releases/latest/download/TopCall-arm64.dmg)
+
+### [MacOS Intel :apple:](https://github.com/toptal/topcall-release/releases/latest/download/TopCall-x64.dmg)
+
+### [Linux Debian :penguin:](https://github.com/toptal/topcall-release/releases/latest/download/TopCall-x64.deb)
 
 ## Support
 
